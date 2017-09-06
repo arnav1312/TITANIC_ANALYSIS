@@ -14,10 +14,10 @@ I have used two models, namely:
   1) Random Forest Classification Algorithm.
   2) Linear Discrimination Analysis.
 
-##_Random Forest Classification Algorithm - Implementation and Results:_
+##Random Forest Classification Algorithm - Implementation and Results:
 
   ![](screenshots/RF.png "Details of RF")
 
-##_Linear Discrimination Analysis - Implementation and Results:_
+##Linear Discrimination Analysis - Implementation and Results:
 
  ![](screenshots/LDA.png "Details of LDA")
