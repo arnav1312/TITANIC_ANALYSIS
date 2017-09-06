@@ -20,6 +20,6 @@ I have used two models, namely:
 
 
 
-Linear Discrimination Analysis - Implementation and Results:
+*Linear Discrimination Analysis - Implementation and Results:*
 
 ![alt text](screenshots/LDA.png "Details of LDA")
